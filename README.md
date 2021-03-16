@@ -1,7 +1,19 @@
-### Hi there 👋
+###  👋   Hi there, I'm Leonardo    👋
 
+<br>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+### 👨🏻‍💻 &nbsp;About Me
+
+🇵🇹 &nbsp;Currently living in Portugal, Évora.
+💡 &nbsp;Learning new techs.\
+🎓 &nbsp;I'm currently studying Computer Science  at the University of Évora.\
+🌱 &nbsp;I'm on track for learning more about Full-Stack Development.\
+✍️ &nbsp;In my free time, I play Videogames, listen Music or just chill.\
+💬 &nbsp;You can texto me an email at leonardocatarro@gmail.com.\
+
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -12,6 +24,7 @@
 </a>
 </p>
 
+<br>
 
 ### 🛠 &nbsp;Techs Learned
 
@@ -26,12 +39,14 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br>
 
 ### 🤝🏻 &nbsp;How To Find Me
-
 <p align="center">
-
-<a href="https://www.instagram.com/leo_catarro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/leonardo.catarro.1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://twitter.com/leo_catarro"><igm src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
+<a href="mailto:leonardocatarro@gmail.com"><img src="https://img.shields.io/badge/-leonardocatarro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/leo_catarro"><img src="https://img.shields.io/badge/-@leo_catarro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/leonardo.catarro.1"><img src="https://img.shields.io/badge/-@leonardo.catarro.1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+**Leonardo Catarro**
+
