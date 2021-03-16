@@ -47,6 +47,7 @@
 <a href="mailto:leonardocatarro@gmail.com"><img src="https://img.shields.io/badge/-leonardocatarro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/leo_catarro"><img src="https://img.shields.io/badge/-@leo_catarro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/leonardo.catarro.1"><img src="https://img.shields.io/badge/-@leonardo.catarro.1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/leo_catarro"><img src="https://img.shields.io/twitter/follow/leo_catarro"/></a>
 </p>
 
 <br>
