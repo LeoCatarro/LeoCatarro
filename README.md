@@ -1,21 +1,26 @@
 ###  👋   Hi there, I'm Leonardo    👋
 
 <br>
+<hr>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻   &nbsp;About Me    👨🏻‍💻
 
-🇵🇹 &nbsp;Currently living in Portugal, Évora.
+🇵🇹 &nbsp;Currently living in Portugal, Évora.\
 💡 &nbsp;Learning new techs.\
 🎓 &nbsp;I'm currently studying Computer Science  at the University of Évora.\
 🌱 &nbsp;I'm on track for learning more about Full-Stack Development.\
 ✍️ &nbsp;In my free time, I play Videogames, listen Music or just chill.\
-💬 &nbsp;You can texto me an email at leonardocatarro@gmail.com.\
+💬 &nbsp;You can texto me an email at leonardocatarro@gmail.com.
 
 <br>
+<hr>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️    &nbsp;GitHub Analytics    ⚙️ 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoCatarro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="LeoCatarro's Github Stats">
+
 
 <p align="center">
 <a href="https://github.com/LeoCatarro">
@@ -25,8 +30,9 @@
 </p>
 
 <br>
+<hr>
 
-### 🛠 &nbsp;Techs Learned
+### 🛠    &nbsp;Techs Learned   🛠 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,13 +46,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
+<hr>
 
-### 🤝🏻 &nbsp;How To Find Me
+### 🤝🏻    &nbsp;How To Find Me    🤝🏻 
 <p>
 <a href="mailto:leonardocatarro@gmail.com"><img src="https://img.shields.io/badge/-leonardocatarro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/leo_catarro"><img src="https://img.shields.io/badge/-@leo_catarro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/leonardo.catarro.1"><img src="https://img.shields.io/badge/-@leonardo.catarro.1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+<br>
+<br>
 
 **Leonardo Catarro**
 
