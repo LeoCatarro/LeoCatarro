@@ -12,7 +12,7 @@
 🎓 &nbsp;I'm currently studying Computer Science  at the University of Évora.\
 🌱 &nbsp;I'm on track for learning more about Full-Stack Development.\
 ✍️ &nbsp;In my free time, I play Videogames, listen Music or just chill.\
-💬 &nbsp;You can texto me an email at leonardocatarro@gmail.com.
+💬 &nbsp;You can text me an email at leonardocatarro@gmail.com.
 
 <br>
 <hr>
