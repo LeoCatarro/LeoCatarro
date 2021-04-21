@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻   &nbsp;About Me    👨🏻‍💻
 
-🇵🇹 &nbsp;Currently living in Portugal, Évora.\
+🇵🇹 &nbsp;Currently living in Évora, Portugal.\
 💡 &nbsp;Learning new techs.\
 🎓 &nbsp;I'm currently studying Computer Science  at the University of Évora.\
 🌱 &nbsp;I'm on track for learning more about Full-Stack Development.\
