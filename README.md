@@ -20,6 +20,7 @@
 ### ⚙️    &nbsp;GitHub Analytics    ⚙️ 
 [![LeoCatarro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCatarro&show_icons=true&theme=omni)
 
+![LeoCatarro Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCatarro&layout=compact&theme=omni&hide=kotline)
 
 <br>
 <hr>
