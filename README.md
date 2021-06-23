@@ -18,7 +18,7 @@
 <hr>
 
 ### ⚙️    &nbsp;GitHub Analytics    ⚙️ 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocatarro)](https://github.com/anuraghazra/github-readme-stats)
+[![LeoCatarro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCatarro&show_icons=true&theme=omni)
 
 
 <br>
