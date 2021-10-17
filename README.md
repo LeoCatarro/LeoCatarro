@@ -10,7 +10,7 @@
 🇵🇹 &nbsp;Currently living in Évora, Portugal.\
 💡 &nbsp;Learning new techs.\
 🎓 &nbsp;I'm currently studying Computer Science  at the University of Évora.\
-🌱 &nbsp;I'm on track for learning more about Full-Stack Development.\
+🌱 &nbsp;I'm on track for learning more about Full-Stack, Game and Mobile Development.\
 ✍️ &nbsp;In my free time, I play Videogames, listen Music or just chill.\
 💬 &nbsp;You can text me an email at leonardocatarro@gmail.com.
 
