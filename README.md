@@ -7,10 +7,11 @@
 
 ### 👨🏻‍💻   &nbsp;About Me    👨🏻‍💻
 
-🇵🇹 &nbsp;Currently living in Évora, Portugal.\
+🇵🇹 &nbsp;Currently living in Montemor-o-Novo, Évora, Portugal.\
 💡 &nbsp;Learning new techs.\
 🎓 &nbsp;I'm graduated in Computer Science and Engineering at the University of Évora.\
 🎓 &nbsp;Now I'm doing my Master's in Computer Science and Engineering at the University of Évora.\
+💻 &nbsp;Currently working as FullStack Software Developer at FocusBC.\
 🌱 &nbsp;I'm on track for learning more about Java for Minecraft Modding, Full-Stack Development, Game and Mobile Development.\
 ✍️ &nbsp;In my free time, I play Videogames, listen Music or just chill.\
 💬 &nbsp;You can text me an email at leonardocatarro@gmail.com.
